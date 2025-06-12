@@ -21,10 +21,3 @@
   <img width="12" />
 </div>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31zloc5mj27msxkshpf56fd7uiwe">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zloc5mj27msxkshpf56fd7uiwe&count=10" alt="spotify"/>
-  </a>
-</div>

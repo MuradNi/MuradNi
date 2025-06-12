@@ -1,4 +1,4 @@
-###👋 Hi, I’m @MuradNi
+### Hi, I’m @MuradNi
 
 ### Still Learning
 
